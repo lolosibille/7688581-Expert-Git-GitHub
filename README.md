@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Déploiement
+## Déploiement modif par github direct
 
 Voici les étapes à suivre pour déployer en production :
 
